@@ -29,6 +29,4 @@ No.
 
 
 ### 2019
-- a
-- b
-- c
+- Saha, Amit K. | Schmidt, Brendan R. et al. Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
