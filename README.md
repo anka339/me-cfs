@@ -26,6 +26,8 @@ No.
 ## List (by year of publication)
 
 ### 2020
+- Słomko, J.; Estévez-López, F.; Kujawski, S.; Zawadka-Kunikowska, M.; Tafil-Klawe, M.; Klawe, J.J.; Morten, K.J.; Szrajda, J.; Murovska, M.; Newton, J.L.; Zalewski, P., on behalf of the European Network on ME/CFS (EUROMENE); **Autonomic Phenotypes in Chronic Fatigue Syndrome (CFS) Are Associated with Illness Severity: A Cluster Analysis**. J. Clin. Med. 2020, 9, 2531. https://doi.org/10.3390/jcm9082531
+- Tölle, M.; Freitag, H.; Antelmann, M.; Hartwig, J.; Schuchardt, M.; van der Giet, M.; Eckardt, K.-U.; Grabowski, P.; Scheibenbogen, C. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Efficacy of Repeat Immunoadsorption**. J. Clin. Med. 2020, 9, 2443. https://doi.org/10.3390/jcm9082443
 - Lande, A., Fluge, Ø., Strand, E.B. et al. **Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**. Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
   - Discussion: The best evidence yet that immune system problems can cause ME/CFS?
  https://mecfsresearchreview.me/2020/04/23/the-best-evidence-yet-that-immune-system-problems-can-cause-me-cfs/
