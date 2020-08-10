@@ -23,15 +23,15 @@ No.
 ## List (by year of publication)
 
 ### 2020
-- Lande, A., Fluge, Ø., Strand, E.B. et al. Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS). Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
+- Lande, A., Fluge, Ø., Strand, E.B. et al. **Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**. Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
   - Discussion: The best evidence yet that immune system problems can cause ME/CFS?
  https://mecfsresearchreview.me/2020/04/23/the-best-evidence-yet-that-immune-system-problems-can-cause-me-cfs/
 
 
 ### 2019
-- Saha, Amit K.,  Schmidt, Brendan R. et al. Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
-- R. Esfandyarpour, A. Kashi, et al. A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). Davis Proceedings of the National Academy of Sciences May 2019, 116 (21) 10250-10257. https://doi.org/10.1073/pnas.1901274116
+- Saha, Amit K.,  Schmidt, Brendan R. et al. **Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome**. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
+- R. Esfandyarpour, A. Kashi, et al. **A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)**. Davis Proceedings of the National Academy of Sciences May 2019, 116 (21) 10250-10257. https://doi.org/10.1073/pnas.1901274116
 
 
 ### 2016
-- Giloteaux, L., Goodrich, J.K., Walters, W.A. et al. Reduced diversity and altered composition of the gut microbiome in individuals with myalgic encephalomyelitis/chronic fatigue syndrome. Microbiome 4, 30 (2016). https://doi.org/10.1186/s40168-016-0171-4
+- Giloteaux, L., Goodrich, J.K., Walters, W.A. et al. **Reduced diversity and altered composition of the gut microbiome in individuals with myalgic encephalomyelitis/chronic fatigue syndrome**. Microbiome 4, 30 (2016). https://doi.org/10.1186/s40168-016-0171-4
