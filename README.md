@@ -14,7 +14,7 @@ Note: if there is a copyright violation, please let me know and your material wi
 
 1. I have something to suggest and it's a scientific/academic document. What should I do?
 
-Click on [here](https://github.com/fmachado/me-cfs/issues/new/choose) and select _"Request: scientific article / academic paper"_. Follow the instructions shown there.
+Click [here](https://github.com/fmachado/me-cfs/issues/new/choose) and select _"Request: scientific article / academic paper"_. Follow the instructions shown there.
 
 
 2. I have a homemade solution, recipe or something that worked for me or someone that I know. May I sugest it here?
