@@ -25,6 +25,12 @@ No.
 ## List (by year of publication)
 
 ### 2020
+- Lande, A., Fluge, Ø., Strand, E.B. et al. Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS). Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
+-- Discussion: The best evidence yet that immune system problems can cause ME/CFS?
+ https://mecfsresearchreview.me/2020/04/23/the-best-evidence-yet-that-immune-system-problems-can-cause-me-cfs/
+
+
+### 2019
 - a
 - b
 - c
