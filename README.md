@@ -31,6 +31,7 @@ No.
 ### 2019
 - Saha, Amit K.,  Schmidt, Brendan R. et al. **Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome**. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
 - R. Esfandyarpour, A. Kashi, et al. **A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)**. Davis Proceedings of the National Academy of Sciences May 2019, 116 (21) 10250-10257. https://doi.org/10.1073/pnas.1901274116
+  - Discussion: Threading the Needle: Nanoneedle Scores Big in First ME/CFS Test https://www.healthrising.org/blog/2019/05/07/threading-the-needle-nanoneedle-scores-big-in-first-me-cfs-test/
 
 
 ### 2016
