@@ -3,7 +3,7 @@
 
 ## Project description
 
-This is a curated list of academic papers and articles about ME/CFS. The key objectives here are:
+This is a curated list of academic papers and articles about [ME/CFS](https://en.wikipedia.org/wiki/Chronic_fatigue_syndrome). The key objectives here are:
 - have a central and starting point for those looking for more information about this medical condition;
 - receive your help and contribution by suggesting new papers or scientific articles.
 
@@ -18,6 +18,11 @@ Click [here](https://github.com/fmachado/me-cfs/issues/new/choose) and select _"
 
 2. I have a homemade solution, recipe or something that worked for me or someone that I know. May I sugest it here? \
 No.
+
+
+## Important projects
+
+- UK: https://www.decodeme.org.uk/
 
 
 ## List (by year of publication)
