@@ -31,7 +31,10 @@ No.
 - Lande, A., Fluge, Ø., Strand, E.B. et al. **Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**. Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
   - Discussion: The best evidence yet that immune system problems can cause ME/CFS?
  https://mecfsresearchreview.me/2020/04/23/the-best-evidence-yet-that-immune-system-problems-can-cause-me-cfs/
-- `(not peer-reviewed!)` Rodriguez, Lucie S.T.; Pou, Christian; et al. **Achieving symptom relief in patients with Myalgic encephalomyelitis by targeting the neuro-immune interface and inducing disease tolerance** bioRxiv. https://doi.org/10.1101/2020.02.20.958249
+- Milivojevic, Milica; Che, Xiaoyu; Bateman, Lucinda et al. **Plasma proteomic profiling suggests an association between antigen driven clonal B cell expansion and ME/CFS**. J. PLoS One July 2020 https://doi.org/10.1371/journal.pone.0236148
+- `(not peer-reviewed!)` Rodriguez, Lucie S.T.; Pou, Christian et al. **Achieving symptom relief in patients with Myalgic encephalomyelitis by targeting the neuro-immune interface and inducing disease tolerance** bioRxiv. https://doi.org/10.1101/2020.02.20.958249
+- `(TRIAL - last update: July 15th, 2020)` **The Exercise Response to Pharmacologic Cholinergic Stimulation in Myalgic Encephalomyelitis / Chronic Fatigue Syndrome** https://clinicaltrials.gov/ct2/show/NCT03674541
+  - Discussion: The Mestinon Clinical Trial for ME / CFS https://www.omf.ngo/2020/04/26/the-mestinon-clinical-trial-for-me-cfs/
 
 ### 2019
 - Saha, Amit K.,  Schmidt, Brendan R. et al. **Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome**. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
