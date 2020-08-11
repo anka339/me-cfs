@@ -38,6 +38,7 @@ No.
   - Discussion: The Mestinon Clinical Trial for ME / CFS https://www.omf.ngo/2020/04/26/the-mestinon-clinical-trial-for-me-cfs/
 
 ### 2019
+- Kashi, A.A.; Davis, R.W.; Phair, R.D. **The IDO Metabolic Trap Hypothesis for the Etiology of ME/CFS**. Diagnostics 2019, 9, 82. https://doi.org/10.3390/diagnostics9030082
 - Saha, Amit K.,  Schmidt, Brendan R. et al. **Red blood cell deformability is diminished in patients with Chronic Fatigue Syndrome**. Clinical Hemorheology and Microcirculation, vol. 71, no. 1, pp. 113-116, 2019. https://doi.org/10.3233/CH-180469
 - R. Esfandyarpour, A. Kashi, et al. **A nanoelectronics-blood-based diagnostic biomarker for myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)**. Davis Proceedings of the National Academy of Sciences May 2019, 116 (21) 10250-10257. https://doi.org/10.1073/pnas.1901274116
   - Discussion:
