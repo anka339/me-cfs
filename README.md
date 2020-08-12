@@ -26,6 +26,7 @@ No.
 ## List (by year of publication)
 
 ### 2020
+- Mueller C, Lin JC, Sheriff S, Maudsley AA, Younger JW. **Evidence of widespread metabolite abnormalities in Myalgic encephalomyelitis/chronic fatigue syndrome: assessment with whole-brain magnetic resonance spectroscopy**. Brain Imaging Behav. 2020;14(2):562-572. https://doi.org/10.1007/s11682-018-0029-4
 - Słomko, J.; Estévez-López, F.; Kujawski, S.; Zawadka-Kunikowska, M.; Tafil-Klawe, M.; Klawe, J.J.; Morten, K.J.; Szrajda, J.; Murovska, M.; Newton, J.L.; Zalewski, P., on behalf of the European Network on ME/CFS (EUROMENE); **Autonomic Phenotypes in Chronic Fatigue Syndrome (CFS) Are Associated with Illness Severity: A Cluster Analysis**. J. Clin. Med. 2020, 9, 2531. https://doi.org/10.3390/jcm9082531
 - Tölle, M.; Freitag, H.; Antelmann, M.; Hartwig, J.; Schuchardt, M.; van der Giet, M.; Eckardt, K.-U.; Grabowski, P.; Scheibenbogen, C. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Efficacy of Repeat Immunoadsorption**. J. Clin. Med. 2020, 9, 2443. https://doi.org/10.3390/jcm9082443
 - Lande, A., Fluge, Ø., Strand, E.B. et al. **Human Leukocyte Antigen alleles associated with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**. Sci Rep 10, 5267 (2020). https://doi.org/10.1038/s41598-020-62157-x
