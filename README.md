@@ -52,4 +52,4 @@ No.
 - Giloteaux, L., Goodrich, J.K., Walters, W.A. et al. **Reduced diversity and altered composition of the gut microbiome in individuals with myalgic encephalomyelitis/chronic fatigue syndrome**. Microbiome 4, 30 (2016). https://doi.org/10.1186/s40168-016-0171-4
 
 ### 2014
-- Nakatomi Y, Mizuno K, Ishii A, et al. **Neuroinflammation in Patients with Chronic Fatigue Syndrome/Myalgic Encephalomyelitis: An ¹¹C-(R)-PK11195 PET Study.** J Nucl Med. 2014;55(6):945-950. doi:10.2967/jnumed.113.131045
+- Nakatomi Y, Mizuno K, Ishii A, et al. **Neuroinflammation in Patients with Chronic Fatigue Syndrome/Myalgic Encephalomyelitis: An ¹¹C-(R)-PK11195 PET Study.** J Nucl Med. 2014;55(6):945-950. http://doi:10.2967/jnumed.113.131045
