@@ -22,6 +22,8 @@ No.
 
 - UK: https://www.decodeme.org.uk/
 
+## Lectures
+- ME/CFS Research: Dr. Ron Davis's Talk at Albert Einstein College of Medicine https://www.youtube.com/watch?v=lHY1Q232HsM&t=1208s
 
 ## List (by year of publication)
 
