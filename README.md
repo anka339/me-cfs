@@ -46,7 +46,9 @@ No.
     - Latest from Ron Davis: more evidence of “something in the blood” https://mecfsresearchreview.me/2019/12/10/latest-from-ron-davis-more-evidence-of-something-in-the-blood/
     - Biomarker for chronic fatigue syndrome identified https://www.med.stanford.edu/news/all-news/2019/04/biomarker-for-chronic-fatigue-syndrome-identified.html
     - Threading the Needle: Nanoneedle Scores Big in First ME/CFS Test https://www.healthrising.org/blog/2019/05/07/threading-the-needle-nanoneedle-scores-big-in-first-me-cfs-test/
-
+    
+### 2018
+- Rowe PC, Marden CL, Heinlein S, Edwards CC 2nd. **Improvement of severe myalgic encephalomyelitis/chronic fatigue syndrome symptoms following surgical treatment of cervical spinal stenosis.** J Transl Med. 2018;16(1):21. Published 2018 Feb 2. https://doi.org/10.1186/s12967-018-1397-7
 
 ### 2016
 - Giloteaux, L., Goodrich, J.K., Walters, W.A. et al. **Reduced diversity and altered composition of the gut microbiome in individuals with myalgic encephalomyelitis/chronic fatigue syndrome**. Microbiome 4, 30 (2016). https://doi.org/10.1186/s40168-016-0171-4
