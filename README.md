@@ -23,7 +23,7 @@ No.
 - UK: https://www.decodeme.org.uk/
 
 ## Lectures
-- ME/CFS Research: Ron Davis's (Professor of Biochemistry & Genetics, and Director of the Stanford Genome Technology Center at Stanford University)Talk at Albert Einstein College of Medicine https://www.youtube.com/watch?v=lHY1Q232HsM&t=1208s
+- ME/CFS Research: Ron Davis's (Professor of Biochemistry & Genetics, and Director of the Stanford Genome Technology Center at Stanford University) Talk at Albert Einstein College of Medicine https://www.youtube.com/watch?v=lHY1Q232HsM&t=1208s
 
 ## List (by year of publication)
 
